@@ -1,5 +1,5 @@
 # testing pubsubhubbub
 def test():
-    print 'test'
+    print 'testing pubsub'
 
 test()
