@@ -1,4 +1,4 @@
-# testing pubsubhubbub
+#testing pubsubhubbub
 def test():
     print 'testing pubsub'
 
